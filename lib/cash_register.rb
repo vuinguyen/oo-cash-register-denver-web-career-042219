@@ -1,1 +1,4 @@
+def CashRegister
+
+end
 
